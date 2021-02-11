@@ -3,3 +3,15 @@ background-color: antiquewhite;
 text-align: center;
 font-family: 'Courier New', Courier, monospace;
 }
+#lista{
+    text-align: center;
+    font-size: 10px;
+    font-family: Arial;
+    background-color: aqua;
+    border-color: aquamarine;
+    width: 50%;
+
+}
+#li{
+    margin-left: 30%;
+}
